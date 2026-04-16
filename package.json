@@ -1,0 +1,12 @@
+{
+  "name": "crud-trabalho",
+  "version": "1.0.0",
+  "description": "CRUD atividade pratica",
+  "license": "ISC",
+  "author": "Adriano Macedo",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  }
+}
